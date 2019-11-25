@@ -11,6 +11,8 @@ the same element twice.
 """
 
 class Solution:
+    # Runtime: 48 ms, faster than 95.83% of Python3 online submissions for Two Sum.
+    # Memory Usage: 14.1 MB, less than 63.49% of Python3 online submissions for Two Sum.
     def twoSum(self, nums, target):
         # nums : List[int]
         # target: int
